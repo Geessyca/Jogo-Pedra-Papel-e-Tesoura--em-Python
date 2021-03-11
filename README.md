@@ -1,4 +1,5 @@
 # Jogo da velha - c/ computador
+<h5>Gessyca Moreira<h5>
 
 <h4> Para criar esse código ultilizamemos a biblioteca de gerador de números aleatórios <i>RANDOM<i>
  Usaremos o random.randint(a, b), para retornarmos um inteiro aleatório N de forma que a <= N <= b.<h4>
