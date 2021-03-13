@@ -1,4 +1,4 @@
-# Jogo da velha - c/ computador
+# Jogo Pedra, Papel e Tesoura - c/ computador
 <h5>Gessyca Moreira<h5>
 
 <h4> Para criar esse código ultilizamemos a biblioteca de gerador de números aleatórios <i>RANDOM<i>
