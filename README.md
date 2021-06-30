@@ -1,6 +1,16 @@
-# Jogo Pedra, Papel e Tesoura - c/ computador
-<h5>Gessyca Moreira<h5>
+<h1 align="center">
+  🎓<br>Jogo Pedra, Papel e Tesoura
+</h1>
+ 
+<h4 align="center">
+  O intuito deste repositório é compartilhar a construção um Jogo de Pedra, Papel e Tesoura construida em Python.
+</h4>
 
+<h2 align="left">
+  Passo a passo ↷ 
+</h2>
+
+ 
 <h4> Para criar esse código ultilizamemos a biblioteca de gerador de números aleatórios <i>RANDOM<i>
  Usaremos o random.randint(a, b), para retornarmos um inteiro aleatório N de forma que a <= N <= b.<h4>
   
@@ -37,3 +47,18 @@ elif escolha == 3:
     elif computador == 3:
         print(f"\nEmpate\nEssa foi a escolha do computador: {computador}") 
 ```
+                              
+                              
+##  👩🏻‍💻 Autora<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/geessyca">
+        <img src="https://avatars.githubusercontent.com/u/72661229?v=4" width="100px;" alt="Icon GitHub"/><br>
+        <sub>
+          <b>Gessyca Moreira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
